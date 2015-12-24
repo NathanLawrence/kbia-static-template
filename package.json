@@ -1,0 +1,21 @@
+{
+  "name": "kbia-static-template",
+  "version": "1.0.0",
+  "description": "***Replace with your project description.***",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp ci"
+  },
+  "repository": {
+    "type": "git",
+    "url": "***ReplaceWithYourRepo***"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-minify-css": "^1.2.2",
+    "gulp-util": "^3.0.7"
+  }
+}
