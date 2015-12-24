@@ -1,6 +1,8 @@
 var gulp = require('gulp'),
 	gutil = require('gulp-util'),
-	concat = require('gulp-concat');
+	concat = require('gulp-concat'),
+	less = require('gulp-less'),
+	minifyCSS = require('gulp-minify-css');
 
 var jsSources = [''];
 var htmlSources = ['components/index.html'];
